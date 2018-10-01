@@ -9,7 +9,7 @@ To Contribute:
 3. Edit the README.md file from the github site. (No need to clone, or your choice :))
 4. Copy the below code and replace with your github user name. Add after the last one.
     ```
-    [yourusernamehere](https://github.com/yourusernamehere)
+   * [yourusernamehere](https://github.com/yourusernamehere)
     ```
 5. Commit by creating a new branch, DO NOT commit to master!
 4. Make a pull request!
@@ -17,5 +17,5 @@ To Contribute:
 
 -------------------------------------------------------------------------------------------------
 * [Joonsang1994](https://github.com/Joonsang1994)
+* [gmacario](https://github.com/gmacario)
 * [marcopetreri](https://github.com/marcopetreri)
-
