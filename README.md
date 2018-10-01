@@ -23,4 +23,5 @@ To Contribute:
 * [Charlye](https://github.com/costassolla)
 * [csp98](https://github.com/csp98)
 * [dreamcatcher12](https://github.com/dreamcatcher12)
+* [James]
 * [kartikeytripathi](https://github.com/kartikeytripathi)
