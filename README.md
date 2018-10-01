@@ -1,6 +1,6 @@
 # Your First PR
 
-This project exists to help you do a pull request! 
+This project exists to help you do a pull request!
 
 To Contribute:
 
@@ -21,4 +21,5 @@ To Contribute:
 * [marcopetreri](https://github.com/marcopetreri)
 * [jonathangin52](https://github.com/JonathanGin52)
 * [Charlye](https://github.com/costassolla)
+* [csp98](https://github.com/csp98)
 * [dreamcatcher12](https://github.com/dreamcatcher12)
