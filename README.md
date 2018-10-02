@@ -24,6 +24,8 @@ To Contribute:
 * [csp98](https://github.com/csp98)
 * [dreamcatcher12](https://github.com/dreamcatcher12)
 * [kartikeytripathi](https://github.com/kartikeytripathi)
+* [kartikeytripathi](https://github.com/kartikeytripathi)
 * [jessicalim8](https://github.com/JessicaLim8)
 * [AkdM](https://github.com/AkdM)
 * [sidhyatikku](https://github.com/sidhyatikku)
+* [james-flynn-ie](https://github.com/james-flynn-ie)
