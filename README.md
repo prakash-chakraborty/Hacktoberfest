@@ -27,3 +27,4 @@ To Contribute:
 * [jessicalim8](https://github.com/JessicaLim8)
 * [AkdM](https://github.com/AkdM)
 * [sidhyatikku](https://github.com/sidhyatikku)
+* [Bruno](https://github.com/dunderbruno)
