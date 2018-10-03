@@ -26,3 +26,5 @@ To Contribute:
 * [kartikeytripathi](https://github.com/kartikeytripathi)
 * [jessicalim8](https://github.com/JessicaLim8)
 * [mohancm](https://github.com/mohancm)
+* [AkdM](https://github.com/AkdM)
+* [sidhyatikku](https://github.com/sidhyatikku)
