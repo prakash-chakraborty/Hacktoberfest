@@ -28,6 +28,7 @@ To Contribute:
 * [jessicalim8](https://github.com/JessicaLim8)
 * [mohancm](https://github.com/mohancm)
 * [AkdM](https://github.com/AkdM)
+* [waysp](https://github.com/waysp)
 * [Yudhst](https://github.com/yudhst)
 * [sidhyatikku](https://github.com/sidhyatikku)
 * [Trol1337](https://github.com/Trol1337)
