@@ -28,6 +28,7 @@ To Contribute:
 * [kartikeytripathi](https://github.com/kartikeytripathi)  
 * [maralucilg](https://github.com/maralucilg)
 * [kartikeytripathi](https://github.com/kartikeytripathi)
+* [DanielCustDuran](https://github.com/DanielCustDuran)
 * [vanessa](https://github.com/vanessa)
 * [jesspetersen](https://github.com/jesspetersen)
 * [twyststar](https://github.com/twyststar)
