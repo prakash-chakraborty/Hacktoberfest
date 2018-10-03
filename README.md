@@ -54,6 +54,7 @@ To Contribute:
 * [goayandi](https://github.com/goayandi)
 * [umarbrowser](https://github.com/umarbrowser)
 * [meditat](https://github.com/meditat)
+* [ElanVB](https://github.com/ElanVB)
 * [Bhupesh-V](https://github.com/Bhupesh-V)
 * [daithiscully](https://github.com/daithiscully)
 * [Hydrowind](https://github.com/Hydrowind)
