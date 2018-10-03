@@ -1,4 +1,4 @@
-# Your First PR
+# Your First Pull Request
 
 This project exists to help you do a pull request! and maybe get "that" t-shirt :D
 
@@ -16,6 +16,8 @@ To Contribute in the proper way so that I can merge the pull request:
 5. Done!
 
 Happy Hacktoberfest :)
+
+[Buy me a coffee](https://paypal.me/prakashc94)
 
 -------------------------------------------------------------------------------------------------
 * [Joonsang1994](https://github.com/Joonsang1994)
