@@ -53,3 +53,4 @@ To Contribute:
 * [bl4ckp4nther](https://github.com/bl4ckp4nther)
 * [goayandi](https://github.com/goayandi)
 * [umarbrowser](https://github.com/umarbrowser)
+* [meditat](https://github.com/meditat)
