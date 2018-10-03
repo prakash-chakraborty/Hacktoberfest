@@ -57,3 +57,4 @@ To Contribute:
 * [daithiscully](https://github.com/daithiscully)
 * [Hydrowind](https://github.com/Hydrowind)
 * [Pitasi](https://github.com/Pitasi)
+* [rpeloff](https://github.com/rpeloff)
