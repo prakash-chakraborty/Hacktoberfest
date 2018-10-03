@@ -58,3 +58,4 @@ To Contribute:
 * [Hydrowind](https://github.com/Hydrowind)
 * [Pitasi](https://github.com/Pitasi)
 * [rpeloff](https://github.com/rpeloff)
+* [zotamias](https://github.com/zotamias)
