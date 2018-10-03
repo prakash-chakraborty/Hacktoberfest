@@ -2,18 +2,20 @@
 
 This project exists to help you do a pull request! and maybe get "that" t-shirt :D
 
-To Contribute:
+To Contribute in the proper way so that I can merge the pull request:
 
 1. Star the repo!
-2. Fork it.
+2. Fork it. (Important!)
 3. Edit the README.md file from the github site. (No need to clone, or your choice :))
 4. Copy the below code and replace with your github user name. Add after the last one.
     ```
    * [yourusernamehere](https://github.com/yourusernamehere)
     ```
-5. Commit by creating a new branch, DO NOT commit to master!
+5. Commit by creating a new branch (Create a new branch for this commit and start a pull request), DO NOT commit to master!
 4. Make a pull request!
-5. Enjoy!
+5. Done!
+
+Happy Hacktoberfest :)
 
 -------------------------------------------------------------------------------------------------
 * [Joonsang1994](https://github.com/Joonsang1994)
@@ -55,3 +57,14 @@ To Contribute:
 * [umarbrowser](https://github.com/umarbrowser)
 * [meditat](https://github.com/meditat)
 * [amslv](https://github.com/amslv)
+* [2wce](https://github.com/2wce)
+* [mohit17067](https://github.com/Mohit17067)
+* [thecoderkd](https://github.com/thecoderkd)
+* [ElanVB](https://github.com/ElanVB)
+* [Bhupesh-V](https://github.com/Bhupesh-V)
+* [daithiscully](https://github.com/daithiscully)
+* [Hydrowind](https://github.com/Hydrowind)
+* [bhaskarmac](https://github.com/bhaskarmac)
+* [Pitasi](https://github.com/Pitasi)
+* [rpeloff](https://github.com/rpeloff)
+* [zotamias](https://github.com/zotamias)
