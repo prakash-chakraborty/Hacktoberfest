@@ -54,3 +54,4 @@ To Contribute:
 * [goayandi](https://github.com/goayandi)
 * [umarbrowser](https://github.com/umarbrowser)
 * [meditat](https://github.com/meditat)
+* [amslv](https://github.com/amslv)
