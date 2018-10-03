@@ -54,6 +54,7 @@ To Contribute:
 * [goayandi](https://github.com/goayandi)
 * [umarbrowser](https://github.com/umarbrowser)
 * [meditat](https://github.com/meditat)
+* [2wce](https://github.com/2wce)
 * [mohit17067](https://github.com/Mohit17067)
 * [thecoderkd](https://github.com/thecoderkd)
 * [ElanVB](https://github.com/ElanVB)
