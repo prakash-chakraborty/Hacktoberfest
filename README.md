@@ -34,3 +34,4 @@ To Contribute:
 * [Trol1337](https://github.com/Trol1337)
 * [Bruno](https://github.com/dunderbruno)
 * [goayandi](https://github.com/goayandi)
+* [bl4ckp4nther](https://github.com/bl4ckp4nther)
