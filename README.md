@@ -28,6 +28,7 @@ To Contribute:
 * [kartikeytripathi](https://github.com/kartikeytripathi)  
 * [maralucilg](https://github.com/maralucilg)
 * [kartikeytripathi](https://github.com/kartikeytripathi)
+* [PerhapsSomeone](https://github.com/PerhapsSomeone)
 * [fractional-ray](https://github.com/fractional-ray)
 * [jlozadad](https://github.com/jlozadad)
 * [makmm](https://github.com/makmm)
