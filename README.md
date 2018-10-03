@@ -1,6 +1,6 @@
 # Your First PR
 
-This project exists to help you do a pull request!
+This project exists to help you do a pull request! and maybe get "that" t-shirt :D
 
 To Contribute:
 
