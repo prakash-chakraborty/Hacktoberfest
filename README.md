@@ -25,5 +25,14 @@ To Contribute:
 * [dreamcatcher12](https://github.com/dreamcatcher12)
 * [kartikeytripathi](https://github.com/kartikeytripathi)
 * [jlozadad](https://github.com/jlozadad)
-*
-
+* [makmm](https://github.com/makmm)
+* [jessicalim8](https://github.com/JessicaLim8)
+* [mohancm](https://github.com/mohancm)
+* [AkdM](https://github.com/AkdM)
+* [riyabhatia26](https://github.com/riyabhatia26)
+* [waysp](https://github.com/waysp)
+* [Yudhst](https://github.com/yudhst)
+* [sidhyatikku](https://github.com/sidhyatikku)
+* [Trol1337](https://github.com/Trol1337)
+* [Bruno](https://github.com/dunderbruno)
+* [goayandi](https://github.com/goayandi)
