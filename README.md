@@ -17,7 +17,9 @@ To Contribute in the proper way so that I can merge the pull request:
 
 Happy Hacktoberfest :)
 
-[Buy me a coffee](https://paypal.me/prakashc94)
+[Buy me a beer](https://paypal.me/prakashc94)
+
+[![ko-fi](https://www.ko-fi.com/img/donate_sm.png)](https://ko-fi.com/G2G3KEQB)
 
 -------------------------------------------------------------------------------------------------
 * [Joonsang1994](https://github.com/Joonsang1994)
