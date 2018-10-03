@@ -28,4 +28,5 @@ To Contribute:
 * [mohancm](https://github.com/mohancm)
 * [AkdM](https://github.com/AkdM)
 * [sidhyatikku](https://github.com/sidhyatikku)
+* [Bruno](https://github.com/dunderbruno)
 * [goayandi](https://github.com/goayandi)
