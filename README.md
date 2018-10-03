@@ -23,6 +23,7 @@ To Contribute:
 * [Charlye](https://github.com/costassolla)
 * [csp98](https://github.com/csp98)
 * [dreamcatcher12](https://github.com/dreamcatcher12)
+* [brandon-meeks](https://github.com/brandon-meeks)
 * [kartikeytripathi](https://github.com/kartikeytripathi)  
 * [maralucilg](https://github.com/maralucilg)
 * [kartikeytripathi](https://github.com/kartikeytripathi)
