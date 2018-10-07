@@ -111,4 +111,5 @@ If I helped you get that tshirt,
 * [krol](https://github.com/krol3)
 * [Akashraj98](https://github.com/Akashraj98)
 * [kembolino](https://github.com/kembolino)
+* [jamal-pb95](https://github.com/jamal-pb95)
 
