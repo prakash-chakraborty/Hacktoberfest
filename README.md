@@ -106,7 +106,7 @@ Happy Hacktoberfest :tada: :fireworks:
 * [KyleCotton](https://github.com/KyleCotton)
 * [jthodge](https://github.com/jthodge)
 * [vipul-11](https://github.com/vipul-11)
-* [rhlmshr] (https://github.com/rhlmshr)
+* [rhlmshr](https://github.com/rhlmshr)
 * [Tiago-OP](https://github.com/Tiago-OP)
-* [rhlmshr] (https://github.com/rhlmshr)
+
 
