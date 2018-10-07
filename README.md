@@ -1,5 +1,4 @@
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
+![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)  ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg?style=popout-square)
 
 ## Your First Pull Request - Hacktoberfest 2018
 
@@ -25,20 +24,21 @@ To Contribute in a proper way so that I can merge the pull request:
     ```
    * [yourusernamehere](https://github.com/yourusernamehere)
     ```
-5. Commit with a proper message. ( Or write "Wakanada Forever")
+5. Commit with a proper message. ( Or write "Wakanada Forever!")
 6. Make a pull request. [What is that?](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
 7. Done!
 
 If you do these, I'll be very happy to merge your pull request. :smiley:
 
+[![forthebadge](https://forthebadge.com/images/badges/approved-by-george-costanza.svg)](https://forthebadge.com)
+
 [Here's another project waiting for your contribution!](https://github.com/Joonsang1994/Captain-India-Alexa)
 
-Happy Hacktoberfest :tada: :fireworks:
+If I helped you get that tshirt, 
+[Buy me a beer! :beer:](https://paypal.me/prakashc94) or [Buy me a coffee! :coffee:](https://ko-fi.com/G2G3KEQB)
 
-[Buy me a beer! :beer:](https://paypal.me/prakashc94) 
 
-[Buy me a coffee! :coffee:](https://ko-fi.com/G2G3KEQB) 
-
+#### Happy Hacktoberfest :tada: :fireworks:
 -------------------------------------------------------------------------------------------------
 * [Joonsang1994](https://github.com/Joonsang1994)
 * [gmacario](https://github.com/gmacario)
