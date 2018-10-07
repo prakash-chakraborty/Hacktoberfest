@@ -98,3 +98,4 @@ Happy Hacktoberfest :tada: :fireworks:
 * [k33k00](https://github.com/k33k00)
 * [lohanidamodar](https://github.com/lohanidamodar)
 * [ltkills](http://github.com/ltkills)
+* [askmhs](https://github.com/askmhs)
