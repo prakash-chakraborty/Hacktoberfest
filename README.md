@@ -105,3 +105,4 @@ Happy Hacktoberfest :tada: :fireworks:
 * [Mindjolt2406] (https://github.com/Mindjolt2406)
 * [KyleCotton](https://github.com/KyleCotton)
 * [jthodge](https://github.com/jthodge)
+* [vipul-11](https://github.com/vipul-11)
