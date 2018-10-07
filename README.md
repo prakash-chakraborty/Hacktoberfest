@@ -34,7 +34,7 @@ If you do these, I'll be very happy to merge your pull request. :smiley:
 
 [Here's another project waiting for your contribution!](https://github.com/Joonsang1994/Captain-India-Alexa)
 
-If I helped you get that tshirt, 
+If I helped you to get that tshirt, 
 [Buy me a beer! :beer:](https://paypal.me/prakashc94)
 
 
