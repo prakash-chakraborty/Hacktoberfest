@@ -102,7 +102,7 @@ Happy Hacktoberfest :tada: :fireworks:
 * [Tiamiyu Abidemi](https://github.com/AbidemiT)
 * [rachitmanchanda](https://github.com/rachitmanchanda)
 * [aedorado](https://github.com/aedorado)
-* [Mindjolt2406] (https://github.com/Mindjolt2406)
+* [Mindjolt2406](https://github.com/Mindjolt2406)
 * [KyleCotton](https://github.com/KyleCotton)
 * [jthodge](https://github.com/jthodge)
 * [Tiago-OP](https://github.com/Tiago-OP)
