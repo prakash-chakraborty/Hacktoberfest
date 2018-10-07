@@ -21,12 +21,13 @@ To Contribute in a proper way so that I can merge the pull request:
 2. Fork it. (Important!) [What is that?](https://help.github.com/articles/fork-a-repo/)
 3. Edit the README.md file.
 4. Copy the below code and replace with your github user name. Add after the last one in the file.
+
     ```
    * [yourusernamehere](https://github.com/yourusernamehere)
     ```
 5. Commit with a proper message. ( Or write "Wakanada Forever")
-4. Make a pull request. [What is that?](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
-5. Done!
+6. Make a pull request. [What is that?](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
+7. Done!
 
 IF you do these successfully I'll be very happy to merge your pull request. :smiley:
 
