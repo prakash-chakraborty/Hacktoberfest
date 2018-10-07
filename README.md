@@ -100,3 +100,4 @@ Happy Hacktoberfest :tada: :fireworks:
 * [ltkills](http://github.com/ltkills)
 * [askmhs](https://github.com/askmhs)
 * [aedorado](https://github.com/aedorado)
+* [Mindjolt2406] (https://github.com/Mindjolt2406)
