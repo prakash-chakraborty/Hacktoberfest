@@ -99,3 +99,4 @@ Happy Hacktoberfest :tada: :fireworks:
 * [lohanidamodar](https://github.com/lohanidamodar)
 * [ltkills](http://github.com/ltkills)
 * [askmhs](https://github.com/askmhs)
+* [Tiamiyu Abidemi](https://github.com/AbidemiT)
