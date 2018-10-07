@@ -99,4 +99,4 @@ Happy Hacktoberfest :tada: :fireworks:
 * [lohanidamodar](https://github.com/lohanidamodar)
 * [ltkills](http://github.com/ltkills)
 * [askmhs](https://github.com/askmhs)
-* [Mindjolt2406] (https://github.com/Mindjolt2406)
+* [rachitmanchanda](https://github.com/rachitmanchanda)
