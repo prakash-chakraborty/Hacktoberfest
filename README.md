@@ -1,7 +1,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 
-## Your First Pull Request - Hacktoberfest
+## Your First Pull Request - Hacktoberfest 2018
 
 I created this project in the spirit of hacktoberfest so that you can do a very simple pull request and in the process you learn how to contribute to a project :smiley:
 
