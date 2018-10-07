@@ -103,4 +103,5 @@ Happy Hacktoberfest :tada: :fireworks:
 * [rachitmanchanda](https://github.com/rachitmanchanda)
 * [aedorado](https://github.com/aedorado)
 * [Mindjolt2406] (https://github.com/Mindjolt2406)
+* [KyleCotton](https://github.com/KyleCotton)
 
