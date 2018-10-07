@@ -110,5 +110,5 @@ Happy Hacktoberfest :tada: :fireworks:
 * [Tiago-OP](https://github.com/Tiago-OP)
 * [krol](https://github.com/krol3)
 * [kembolino](https://github.com/kembolino)
-* [Zornitsa Asanska](https://github.com/Zornitsa Asanska)
+* [Zornitsa Asanska](https://github.com/ZornitsaAsanska)
 
