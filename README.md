@@ -29,7 +29,9 @@ To Contribute in a proper way so that I can merge the pull request:
 6. Make a pull request. [What is that?](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
 7. Done!
 
-IF you do these successfully I'll be very happy to merge your pull request. :smiley:
+If you do these, I'll be very happy to merge your pull request. :smiley:
+
+[Here's another project waiting for your contribution!](https://github.com/Joonsang1994/Captain-India-Alexa)
 
 Happy Hacktoberfest :tada: :fireworks:
 
