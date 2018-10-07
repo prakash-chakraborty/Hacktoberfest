@@ -112,5 +112,6 @@ If I helped you get that tshirt,
 * [Akashraj98](https://github.com/Akashraj98)
 * [kembolino](https://github.com/kembolino)
 * [mani1soni](https://github.com/mani1soni)
+* [aparimeet](https://github.com/aparimeet)
 * [jamal-pb95](https://github.com/jamal-pb95)
 * [chanchalv18](https://github.com/chanchalv18)
