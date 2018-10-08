@@ -1,7 +1,7 @@
 ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)  ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg?style=popout-square)
 
 ## Your First Pull Request - Hacktoberfest 2018
-
+Don't worry every Expert was once a beginner and to become one I am here to help you.
 I created this project in the spirit of hacktoberfest so that you can do a very simple pull request and in the process you learn how to contribute to a project :smiley:
 
 ### What is Hacktoberfest?
@@ -131,4 +131,4 @@ If I helped you to get that tshirt,
 * [TagLog](https://github.com/NJOYSoftware)
 * [dennydap](https://github.com/dennydap)
 * [indraarianggi](https://github.com/indraarianggi)
-
+* [VINEESHGUPTA](https://github.com/VINEESHGUPTA)
