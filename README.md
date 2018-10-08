@@ -115,6 +115,7 @@ If I helped you to get that tshirt,
 * [aparimeet](https://github.com/aparimeet)
 * [jamal-pb95](https://github.com/jamal-pb95)
 * [chanchalv18](https://github.com/chanchalv18)
+* [MysticSeagull](https://github.com/Justinborzi)
 * [nhrkr](https://github.com/nhrkr)
 * [gpeden][https://github.com/gpeden]
 * [kelseyrwarner](https://github.com/kelseyrwarner)
