@@ -116,4 +116,15 @@ If I helped you to get that tshirt,
 * [jamal-pb95](https://github.com/jamal-pb95)
 * [chanchalv18](https://github.com/chanchalv18)
 * [louzogh](https://github.com/Louzogh)
+* [MysticSeagull](https://github.com/Justinborzi)
+* [nhrkr](https://github.com/nhrkr)
+* [gpeden][https://github.com/gpeden]
+* [kelseyrwarner](https://github.com/kelseyrwarner)
+* [diemax](https://github.com/diemax)
+* [FoteiniK](https://github.com/FoteiniK)
+* [LalitKushwah](https://github.com/LalitKushwah)
+* [ericmshen](https://github.com/ericmshen)
+* [jonas-martinez](https://github.com/jonas-martinez)
+* [sittichoke](https://github.com/sittichoke)
+
 
