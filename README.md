@@ -116,4 +116,8 @@ If I helped you to get that tshirt,
 * [jamal-pb95](https://github.com/jamal-pb95)
 * [chanchalv18](https://github.com/chanchalv18)
 * [diemax](https://github.com/diemax)
+* [FoteiniK](https://github.com/FoteiniK)
+* [LalitKushwah](https://github.com/LalitKushwah)
+* [ericmshen](https://github.com/ericmshen)
+* [jonas-martinez](https://github.com/jonas-martinez)
 
