@@ -120,7 +120,7 @@ If I helped you to get that tshirt,
 * [louzogh](https://github.com/Louzogh)
 * [MysticSeagull](https://github.com/Justinborzi)
 * [nhrkr](https://github.com/nhrkr)
-* [gpeden][https://github.com/gpeden]
+* [gpeden](https://github.com/gpeden)
 * [kelseyrwarner](https://github.com/kelseyrwarner)
 * [diemax](https://github.com/diemax)
 * [FoteiniK](https://github.com/FoteiniK)
@@ -129,3 +129,6 @@ If I helped you to get that tshirt,
 * [jonas-martinez](https://github.com/jonas-martinez)
 * [sittichoke](https://github.com/sittichoke)
 * [TagLog](https://github.com/NJOYSoftware)
+* [dennydap](https://github.com/dennydap)
+* [indraarianggi](https://github.com/indraarianggi)
+
