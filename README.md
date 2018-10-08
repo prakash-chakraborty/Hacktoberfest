@@ -111,6 +111,7 @@ If I helped you to get that tshirt,
 * [krol](https://github.com/krol3)
 * [Akashraj98](https://github.com/Akashraj98)
 * [kembolino](https://github.com/kembolino)
+* [Zornitsa Asanska](https://github.com/ZornitsaAsanska)
 * [mani1soni](https://github.com/mani1soni)
 * [aparimeet](https://github.com/aparimeet)
 * [jamal-pb95](https://github.com/jamal-pb95)
