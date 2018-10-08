@@ -1,5 +1,4 @@
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
+![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)  ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg?style=popout-square)
 
 ## Your First Pull Request - Hacktoberfest 2018
 
@@ -25,20 +24,21 @@ To Contribute in a proper way so that I can merge the pull request:
     ```
    * [yourusernamehere](https://github.com/yourusernamehere)
     ```
-5. Commit with a proper message. ( Or write "Wakanada Forever")
+5. Commit with a proper message. ( Or write "Wakanada Forever!")
 6. Make a pull request. [What is that?](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
 7. Done!
 
 If you do these, I'll be very happy to merge your pull request. :smiley:
 
+[![forthebadge](https://forthebadge.com/images/badges/approved-by-george-costanza.svg)](https://forthebadge.com)
+
 [Here's another project waiting for your contribution!](https://github.com/Joonsang1994/Captain-India-Alexa)
 
-Happy Hacktoberfest :tada: :fireworks:
+If I helped you to get that tshirt, 
+[Buy me a beer! :beer:](https://paypal.me/prakashc94)
 
-[Buy me a beer! :beer:](https://paypal.me/prakashc94) 
 
-[Buy me a coffee! :coffee:](https://ko-fi.com/G2G3KEQB) 
-
+#### Happy Hacktoberfest :tada: :fireworks:
 -------------------------------------------------------------------------------------------------
 * [Joonsang1994](https://github.com/Joonsang1994)
 * [gmacario](https://github.com/gmacario)
@@ -109,6 +109,23 @@ Happy Hacktoberfest :tada: :fireworks:
 * [rhlmshr](https://github.com/rhlmshr)
 * [Tiago-OP](https://github.com/Tiago-OP)
 * [krol](https://github.com/krol3)
+* [Akashraj98](https://github.com/Akashraj98)
 * [kembolino](https://github.com/kembolino)
 * [Zornitsa Asanska](https://github.com/ZornitsaAsanska)
+* [mani1soni](https://github.com/mani1soni)
+* [aparimeet](https://github.com/aparimeet)
+* [jamal-pb95](https://github.com/jamal-pb95)
+* [chanchalv18](https://github.com/chanchalv18)
+* [louzogh](https://github.com/Louzogh)
+* [MysticSeagull](https://github.com/Justinborzi)
+* [nhrkr](https://github.com/nhrkr)
+* [gpeden][https://github.com/gpeden]
+* [kelseyrwarner](https://github.com/kelseyrwarner)
+* [diemax](https://github.com/diemax)
+* [FoteiniK](https://github.com/FoteiniK)
+* [LalitKushwah](https://github.com/LalitKushwah)
+* [ericmshen](https://github.com/ericmshen)
+* [jonas-martinez](https://github.com/jonas-martinez)
+* [sittichoke](https://github.com/sittichoke)
+
 
