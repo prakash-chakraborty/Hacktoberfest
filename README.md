@@ -128,6 +128,7 @@ If I helped you to get that tshirt,
 * [ericmshen](https://github.com/ericmshen)
 * [jonas-martinez](https://github.com/jonas-martinez)
 * [sittichoke](https://github.com/sittichoke)
+* [TagLog](https://github.com/NJOYSoftware)
 * [dennydap](https://github.com/dennydap)
 * [indraarianggi](https://github.com/indraarianggi)
 
