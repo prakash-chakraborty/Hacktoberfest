@@ -133,3 +133,6 @@ If I helped you to get that tshirt,
 * [dennydap](https://github.com/dennydap)
 * [indraarianggi](https://github.com/indraarianggi)
 * [VINEESHGUPTA](https://github.com/VINEESHGUPTA)
+* [Pielgrin](https://github.com/Pielgrin)
+* [luckycoder1030](https://github.com/luckycoder1030)
+
