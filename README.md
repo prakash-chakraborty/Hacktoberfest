@@ -1,7 +1,5 @@
 ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)  ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg?style=popout-square)
 
-Don't worry every Expert was once a beginner and to become one I am here to help you.
-
 ## Your First Pull Request - Hacktoberfest 2018
 I created this project in the spirit of hacktoberfest so that you can do a very simple pull request and in the process you learn how to contribute to a project :smiley:
 
@@ -25,22 +23,22 @@ To Contribute in a proper way so that I can merge the pull request:
     ```
    * [yourusernamehere](https://github.com/yourusernamehere)
     ```
-5. Commit with a proper message. ( Or write "Wakanada Forever!")
+5. Commit with a message. ( Or write "Wakanada Forever!")
 6. Make a pull request. [What is that?](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
 7. Done!
-
-If you do these, I'll be very happy to merge your pull request. :smiley:
-
-[![forthebadge](https://forthebadge.com/images/badges/approved-by-george-costanza.svg)](https://forthebadge.com)
 
 [Here's another project waiting for your contribution!](https://github.com/Joonsang1994/Captain-India-Alexa)
 
 If I helped you to get that tshirt, 
-[Buy me a beer! :beer:](https://paypal.me/prakashc94)
+[Buy me a beer! :beer:](https://paypal.me/prakashc94) or [follow me](https://github.com/Joonsang1994) :smiley:
 
 
 #### Happy Hacktoberfest :tada: :fireworks:
+
 -------------------------------------------------------------------------------------------------
+
+### Contributors:
+
 * [Joonsang1994](https://github.com/Joonsang1994)
 * [gmacario](https://github.com/gmacario)
 * [marcopetreri](https://github.com/marcopetreri)
