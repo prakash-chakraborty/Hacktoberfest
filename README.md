@@ -137,4 +137,7 @@ If I helped you to get that tshirt,
 * [ps011](https://github.com/ps011)
 * [reesea](https://github.com/reesea)
 * [codali](https://github.com/codali)
+* [chireia](https://github.com/chireia)
+* [rohit-mp](https://github.com/rohit-mp)
+
 
