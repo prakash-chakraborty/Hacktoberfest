@@ -136,3 +136,9 @@ If I helped you to get that tshirt,
 * [AndikaNugraha11](https://github.com/AndikaNugraha11)
 * [ps011](https://github.com/ps011)
 * [JoeChrys](https://github.com/JoeChrys)
+* [reesea](https://github.com/reesea)
+* [Luana-Menezes](https://github.com/Luana-Menezes)
+* [codali](https://github.com/codali)
+* [chireia](https://github.com/chireia)
+* [rohit-mp](https://github.com/rohit-mp)
+
