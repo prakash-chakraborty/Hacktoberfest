@@ -149,5 +149,8 @@ If I helped you to get that tshirt,
 * [PavanDongare](https://github.com/PavanDongare)
 * [t-howell](https://github.com/t-howell)
 * [archieherbias](https://github.com/archieherbias)
+* [Vishnu](https://github.com/vishnuvardhan2005)
+* [jordiprats](https://github.com/jordiprats)
+* [thomashockaday](https://github.com/thomashockaday)
 
 
