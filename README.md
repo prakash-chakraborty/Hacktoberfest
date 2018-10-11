@@ -27,11 +27,11 @@ To Contribute in a proper way so that I can merge the pull request:
 6. Make a pull request. [What is that?](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
 7. Done!
 
-[Here's another project waiting for your contribution!](https://github.com/Joonsang1994/Captain-India-Alexa)
+[Want more free t-shirts like this one? Check this out!](https://github.com/Joonsang1994/free-tshirts-stickers-and-swag-for-developers)
 
-If I helped you to get that tshirt, 
-[Buy me a beer! :beer:](https://paypal.me/prakashc94) or [follow me](https://github.com/Joonsang1994) :smiley:
+If you like my work, [please be my patreon](https://www.patreon.com/join/prakashchakraborty?) . It helps me cover costs :smiley: 
 
+Checkout my other projects [here](https://github.com/Joonsang1994?tab=repositories)
 
 #### Happy Hacktoberfest :tada: :fireworks:
 
