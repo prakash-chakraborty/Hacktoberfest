@@ -153,4 +153,7 @@ If I helped you to get that tshirt,
 * [jordiprats](https://github.com/jordiprats)
 * [thomashockaday](https://github.com/thomashockaday)
 * [danbarcinas](https://github.com/danbarcinas)
+* [CrickSoldier](https://github.com/CrickSoldier)
+* [ThomasChr](https://github.com/ThomasChr)
+
 
