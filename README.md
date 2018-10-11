@@ -148,4 +148,6 @@ If I helped you to get that tshirt,
 * [Arham-Aalam](https://github.com/Arham-Aalam)
 * [PavanDongare](https://github.com/PavanDongare)
 * [t-howell](https://github.com/t-howell)
+* [jordiprats](https://github.com/jordiprats)
 * [thomashockaday](https://github.com/thomashockaday)
+
