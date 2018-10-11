@@ -143,4 +143,8 @@ If I helped you to get that tshirt,
 * [chireia](https://github.com/chireia)
 * [rohit-mp](https://github.com/rohit-mp)
 * [dkudriavtsev](https://github.com/dkudriavtsev)
+* [M4l2tIlV](https://github.com/M4l2tIlV)
+* [Arham-Aalam](https://github.com/Arham-Aalam)
+* [PavanDongare](https://github.com/PavanDongare)
+
 
