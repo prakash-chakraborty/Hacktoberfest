@@ -152,5 +152,5 @@ If I helped you to get that tshirt,
 * [Vishnu](https://github.com/vishnuvardhan2005)
 * [jordiprats](https://github.com/jordiprats)
 * [thomashockaday](https://github.com/thomashockaday)
-
+* [danbarcinas](https://github.com/danbarcinas)
 
