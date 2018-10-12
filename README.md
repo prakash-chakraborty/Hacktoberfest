@@ -154,6 +154,7 @@ Checkout my other projects [here](https://github.com/Joonsang1994?tab=repositori
 * [thomashockaday](https://github.com/thomashockaday)
 * [danbarcinas](https://github.com/danbarcinas)
 * [CrickSoldier](https://github.com/CrickSoldier)
+* [Mister-maker](https://github.com/Mister-maker)
 * [ThomasChr](https://github.com/ThomasChr)
 * [Raj-Kumar](https://github.com/rajcrk)
 * [thesagarpasrija](https://github.com/thesagarpasrija)
@@ -161,3 +162,5 @@ Checkout my other projects [here](https://github.com/Joonsang1994?tab=repositori
 * [devAmoghS](https://github.com/devAmoghS)
 * [SoftCreatR](https://github.com/SoftCreatR)
 * [jamieburnip](https://github.com/jamieburnip)
+* [fidriz20](https://github.com/fidriz20)
+
