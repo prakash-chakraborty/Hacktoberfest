@@ -58,6 +58,7 @@ Checkout my other projects [here](https://github.com/Joonsang1994?tab=repositori
 * [vanessa](https://github.com/vanessa)
 * [jesspetersen](https://github.com/jesspetersen)
 * [twyststar](https://github.com/twyststar)
+* [Nishant-Mittal](https://github.com/nishantmittal59)
 * [Arendt](https://github.com/Arendt)
 * [Endless7188](https://github.com/endless7188)
 * [PerhapsSomeone](https://github.com/PerhapsSomeone)
