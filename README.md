@@ -58,6 +58,7 @@ Checkout my other projects [here](https://github.com/Joonsang1994?tab=repositori
 * [vanessa](https://github.com/vanessa)
 * [jesspetersen](https://github.com/jesspetersen)
 * [twyststar](https://github.com/twyststar)
+* [Nishant-Mittal](https://github.com/nishantmittal59)
 * [Arendt](https://github.com/Arendt)
 * [Endless7188](https://github.com/endless7188)
 * [PerhapsSomeone](https://github.com/PerhapsSomeone)
@@ -172,3 +173,9 @@ Checkout my other projects [here](https://github.com/Joonsang1994?tab=repositori
 * [ManoRanjith](https://github.com/ManoRanjithK)
 * [Ravish](https://github.com/ravish1729)
 * [Farzan](https://github.com/scorpion-kali)
+* [alanpaura](https://github.com/alanpaura)
+* [msaoudallah](https://github.com/msaoudallah)
+* [mvfc](https://github.com/mvfc)
+* [Rohan Bajpai](https://github.com/bajpairohan6306)
+* [Dominoanty](https://github.com/dominoanty)
+
