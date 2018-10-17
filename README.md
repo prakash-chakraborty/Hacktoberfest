@@ -64,6 +64,7 @@ Checkout my other projects [here](https://github.com/Joonsang1994?tab=repositori
 * [PerhapsSomeone](https://github.com/PerhapsSomeone)
 * [fractional-ray](https://github.com/fractional-ray)
 * [jlozadad](https://github.com/jlozadad)
+* [Alex Niebuhr](https://github.com/alexanderniebuhr)
 * [makmm](https://github.com/makmm)
 * [jessicalim8](https://github.com/JessicaLim8)
 * [mohancm](https://github.com/mohancm)
@@ -181,4 +182,7 @@ Checkout my other projects [here](https://github.com/Joonsang1994?tab=repositori
 * [sanesedu](https://github.com/sanesedu)
 * [tyeung2017](https://github.com/tyeung2017)
 * [yazdipour](https://github.com/yazdipour)
+* [blackpanther99](https://github.com/blackpanther99)
+* [nrsalmon](https://github.com/nrsalmon)
+
 
