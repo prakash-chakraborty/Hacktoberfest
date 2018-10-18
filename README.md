@@ -5,7 +5,7 @@ I created this project in the spirit of hacktoberfest so that you can do a very 
 
 ### What is Hacktoberfest?
 
-[Hacktoberfest](https://hacktoberfest.digitalocean.com/) is a month-long celebration of open source software. You have to register and make five pull requests to any github repo (including this one!) in the month of october. If you do that you get a tshirt :tshirt: and stickers for your laptop :computer: . Sounds interesting? Let's do it then!
+[Hacktoberfest](https://hacktoberfest.digitalocean.com/) is a month-long celebration of open source software. You have to register and make five pull requests to any github repo (including this one!) in the month of ) October. If you do that, you get a t-shirt :tshirt: and stickers for your laptop :computer: . Sounds interesting? Let's do it then!
 
 ### Wait...what is github?!
 
