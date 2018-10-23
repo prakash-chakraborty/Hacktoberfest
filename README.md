@@ -184,6 +184,6 @@ Checkout my other projects [here](https://github.com/Joonsang1994?tab=repositori
 * [yazdipour](https://github.com/yazdipour)
 * [blackpanther99](https://github.com/blackpanther99)
 * [nrsalmon](https://github.com/nrsalmon)
-* [clD11](https://github.com/clD11)
+* [cld11](https://github.com/clD11)
 
 
