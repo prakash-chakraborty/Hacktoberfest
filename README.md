@@ -43,6 +43,7 @@ Checkout my other projects [here](https://github.com/Joonsang1994?tab=repositori
 * [gmacario](https://github.com/gmacario)
 * [marcopetreri](https://github.com/marcopetreri)
 * [mdelclaro](https://github.com/mdelclaro)
+* [arsenypoga](https://github.com/arsenypoga)
 * [jonathangin52](https://github.com/JonathanGin52)
 * [Charlye](https://github.com/costassolla)
 * [csp98](https://github.com/csp98)
