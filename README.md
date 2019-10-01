@@ -145,7 +145,7 @@ Checkout my other projects [here](https://github.com/Joonsang1994?tab=repositori
 * [chireia](https://github.com/chireia)
 * [rohit-mp](https://github.com/rohit-mp)
 * [AtoMc](https://github.com/AtoMc)
-* [dkudriavtsev](https://github.com/dkudriavtsev)
+* [dkudriavtsev *2019*](https://github.com/dkudriavtsev)
 * [M4l2tIlV](https://github.com/M4l2tIlV)
 * [Arham-Aalam](https://github.com/Arham-Aalam)
 * [PavanDongare](https://github.com/PavanDongare)
