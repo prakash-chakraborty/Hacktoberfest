@@ -184,6 +184,6 @@ Checkout my other projects [here](https://github.com/Joonsang1994?tab=repositori
 * [yazdipour](https://github.com/yazdipour)
 * [blackpanther99](https://github.com/blackpanther99)
 * [nrsalmon](https://github.com/nrsalmon) 
-* [innovator007](https://github.com/innovator007)
+* [Innovator007](https://github.com/Innovator007)
 
 
