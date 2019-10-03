@@ -67,6 +67,7 @@ Checkout my other projects [here](https://github.com/Joonsang1994?tab=repositori
 * [Alex Niebuhr](https://github.com/alexanderniebuhr)
 * [makmm](https://github.com/makmm)
 * [jessicalim8](https://github.com/JessicaLim8)
+* [jatin96](https://github.com/jatin96)
 * [mohancm](https://github.com/mohancm)
 * [AkdM](https://github.com/AkdM)
 * [riyabhatia26](https://github.com/riyabhatia26)
