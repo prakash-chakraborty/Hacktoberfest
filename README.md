@@ -143,6 +143,7 @@ Checkout my other projects [here](https://github.com/Joonsang1994?tab=repositori
 * [Luana-Menezes](https://github.com/Luana-Menezes)
 * [codali](https://github.com/codali)
 * [chireia](https://github.com/chireia)
+* [Sahil Manchanda](https://github.com/sahilmanchanda1999)
 * [rohit-mp](https://github.com/rohit-mp)
 * [AtoMc](https://github.com/AtoMc)
 * [dkudriavtsev](https://github.com/dkudriavtsev)
