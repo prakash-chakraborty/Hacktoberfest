@@ -119,6 +119,7 @@ Checkout my other projects [here](https://github.com/Joonsang1994?tab=repositori
 * [chanchalv18](https://github.com/chanchalv18)
 * [Oluwasetemi](https://github.com/Oluwasetemi)
 * [louzogh](https://github.com/Louzogh)
+* [amitsubedi353](https://github.com/amitsubedi353)
 * [MysticSeagull](https://github.com/Justinborzi)
 * [nhrkr](https://github.com/nhrkr)
 * [gpeden](https://github.com/gpeden)
