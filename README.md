@@ -1,13 +1,13 @@
 ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)  ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg?style=popout-square) [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-## Your First Pull Request - Hacktoberfest 2018
+## Your First Pull Request - Hacktoberfest 2019
 I created this project in the spirit of hacktoberfest so that you can do a very simple pull request and in the process you learn how to contribute to a project :smiley:
 
 ### What is Hacktoberfest?
 
-[Hacktoberfest](https://hacktoberfest.digitalocean.com/) is a month-long celebration of open source software. You have to register and make five pull requests to any github repo (including this one!) in the month of october. If you do that you get a tshirt :tshirt: and stickers for your laptop :computer: . Sounds interesting? Let's do it then!
+[Hacktoberfest](https://hacktoberfest.digitalocean.com/) is a month long celebration of open source software. You have to register and make five pull requests to any github repo (including this one!) in the month of october. If you do that you get a tshirt :tshirt: and stickers for your laptop :computer: . Sounds interesting? Let's do it then!
 
-### Wait...what is github?!
+### Wait..what is github?!
 
 I get it. You are new to this whole thing. But don't worry, here is a great [guide](https://guides.github.com/activities/hello-world/) to help you understand.
 
@@ -184,5 +184,6 @@ Checkout my other projects [here](https://github.com/Joonsang1994?tab=repositori
 * [yazdipour](https://github.com/yazdipour)
 * [blackpanther99](https://github.com/blackpanther99)
 * [nrsalmon](https://github.com/nrsalmon)
+* [udhay](https://github.com/udhay24)
 
 
