@@ -1,6 +1,6 @@
 ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)  ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg?style=popout-square) [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-## Your First Pull Request - Hacktoberfest 2018
+## Your First Pull Request - Hacktoberfest 2019
 I created this project in the spirit of hacktoberfest so that you can do a very simple pull request and in the process you learn how to contribute to a project :smiley:
 
 ### What is Hacktoberfest?
@@ -184,5 +184,6 @@ Checkout my other projects [here](https://github.com/Joonsang1994?tab=repositori
 * [yazdipour](https://github.com/yazdipour)
 * [blackpanther99](https://github.com/blackpanther99)
 * [nrsalmon](https://github.com/nrsalmon)
+* [sanchittechnogeek](https://github.com/sanchittechnogeek)
 
 
