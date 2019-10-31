@@ -39,6 +39,7 @@ Checkout my other projects [here](https://github.com/Joonsang1994?tab=repositori
 
 ### Contributors:
 
+* [Harsh Trivedi](https://github.com/harsh98trivedi)
 * [Joonsang1994](https://github.com/Joonsang1994)
 * [gmacario](https://github.com/gmacario)
 * [marcopetreri](https://github.com/marcopetreri)
