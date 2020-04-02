@@ -33,6 +33,8 @@ To Contribute in a proper way so that I can merge the pull request:
 
 [Want free dev t-shirts and swags?](https://github.com/Joonsang1994/free-tshirts-stickers-and-swag-for-developers)
 
+**:envelope: To receive updates in email, [subscribe!](https://mailchi.mp/9dafbae00206/prakash) :envelope:**
+
 Checkout my other projects [here](https://github.com/Joonsang1994?tab=repositories)
 
 #### Happy Learning & Hacktoberfest :tada: :fireworks:
