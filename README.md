@@ -53,7 +53,7 @@ Checkout my other projects [here](https://github.com/Joonsang1994?tab=repositori
 * [dreamcatcher12](https://github.com/dreamcatcher12)
 * [yurrr](https://github.com/yurrr)
 * [brandon-meeks](https://github.com/brandon-meeks)
-* [kartikeytripathi](https://github.com/kartikeytripathi)  
+* [kartikeytripathi](https://github.com/kartikeytripathi)
 * [maralucilg](https://github.com/maralucilg)
 * [kartikeytripathi](https://github.com/kartikeytripathi)
 * [bwoconnor](https://github.com/bwoconnor)
@@ -188,5 +188,6 @@ Checkout my other projects [here](https://github.com/Joonsang1994?tab=repositori
 * [yazdipour](https://github.com/yazdipour)
 * [blackpanther99](https://github.com/blackpanther99)
 * [nrsalmon](https://github.com/nrsalmon)
+* [hainguyen](https://github.com/hoasung01)
 
 
