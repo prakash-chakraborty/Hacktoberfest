@@ -162,7 +162,7 @@ Checkout my other projects [here](https://github.com/Joonsang1994?tab=repositori
 * [CrickSoldier](https://github.com/CrickSoldier)
 * [Mister-maker](https://github.com/Mister-maker)
 * [ThomasChr](https://github.com/ThomasChr)
-* [Raj-Kumar](https://github.com/rajcrk)
+* [Raj-Kumar](https://github.com/rajcrk)patch-1
 * [thesagarpasrija](https://github.com/thesagarpasrija)
 * [fiodr23](https://github.com/fiodr23)
 * [devAmoghS](https://github.com/devAmoghS)
@@ -188,5 +188,7 @@ Checkout my other projects [here](https://github.com/Joonsang1994?tab=repositori
 * [yazdipour](https://github.com/yazdipour)
 * [blackpanther99](https://github.com/blackpanther99)
 * [nrsalmon](https://github.com/nrsalmon)
+* [Mohit-Mithra](https://github.com/Mohit-Mithra)
+
 
 
