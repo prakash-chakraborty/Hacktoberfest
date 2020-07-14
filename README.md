@@ -73,6 +73,7 @@ Checkout my other projects [here](https://github.com/Joonsang1994?tab=repositori
 * [jessicalim8](https://github.com/JessicaLim8)
 * [mohancm](https://github.com/mohancm)
 * [AkdM](https://github.com/AkdM)
+* [Pedro Veríssimo](https://github.com/pbv2)
 * [riyabhatia26](https://github.com/riyabhatia26)
 * [waysp](https://github.com/waysp)
 * [Yudhst](https://github.com/yudhst)
