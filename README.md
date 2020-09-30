@@ -13,6 +13,17 @@ Note that this repository exists as a learning tool for new contributors to open
 
 I get it. You are new to this whole thing. But don't worry, here is a great [guide](https://guides.github.com/activities/hello-world/) to help you understand.
 
+## Choose from these tasks
+### 1. Add your name
+Add your name to the `CONTRIBUTORS.md` file using the below convention:
+
+```markdown
+#### Name: YOUR NAME
+- Place: City, State, Country
+- Bio: Who are you?
+- GitHub: [GitHub account name](GitHub link)
+```
+
 ### Contribution Guide
 
 To Contribute in a proper way so that I can merge the pull request:
@@ -47,4 +58,5 @@ Checkout my other projects [here](https://github.com/Joonsang1994?tab=repositori
 
 * [Joonsang1994](https://github.com/Joonsang1994)
 * [yourusernamehere](https://github.com/yourusernamehere)
+* [Arya Soni](https://github.com/aryasoni98)
 
