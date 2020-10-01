@@ -45,6 +45,7 @@ Checkout my other projects [here](https://github.com/Joonsang1994?tab=repositori
 
 ### Contributors:
 
+* [EyeOfCode](https://github.com/EyeOfCode)
 * [Joonsang1994](https://github.com/Joonsang1994)
 * [yourusernamehere](https://github.com/yourusernamehere)
 
