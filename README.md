@@ -46,5 +46,6 @@ Checkout my other projects [here](https://github.com/Joonsang1994?tab=repositori
 ### Contributors:
 
 * [Joonsang1994](https://github.com/Joonsang1994)
+* [Deril](https://github.com/deril2605)
 * [yourusernamehere](https://github.com/yourusernamehere)
 
