@@ -46,5 +46,6 @@ Checkout my other projects [here](https://github.com/Joonsang1994?tab=repositori
 ### Contributors:
 
 * [Joonsang1994](https://github.com/Joonsang1994)
+[Kacimi-Amine](https://github.com/Kacimi-Amine)
 * [yourusernamehere](https://github.com/yourusernamehere)
 
