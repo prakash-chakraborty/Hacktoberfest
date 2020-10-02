@@ -1,4 +1,4 @@
-![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)  ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg?style=popout-square) [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+﻿![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)  ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg?style=popout-square) [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 ## Your First Pull Request - Hacktoberfest
 I created this project in the spirit of hacktoberfest so that you can do a very simple pull request and in the process you learn how to contribute to a project :smiley:
@@ -47,4 +47,5 @@ Checkout my other projects [here](https://github.com/Joonsang1994?tab=repositori
 
 * [Joonsang1994](https://github.com/Joonsang1994)
 * [yourusernamehere](https://github.com/yourusernamehere)
+* [manan-bedi2908](https://github.com/manan-bedi2908)
 
