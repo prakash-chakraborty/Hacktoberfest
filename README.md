@@ -3,7 +3,7 @@
 ## Your First Pull Request - Hacktoberfest
 I created this project in the spirit of hacktoberfest so that you can do a very simple pull request and in the process you learn how to contribute to a project :smiley:
 
-Note that this repository exists as a learning tool for new contributors to open-source, and pull requests won’t count toward Hacktoberfest!
+Note that this repository exists as a learning tool for new contributors to open-source, and pull requests to this won’t count toward Hacktoberfest! PR requests won't be accepted/merged.
 
 ### What is Hacktoberfest?
 
