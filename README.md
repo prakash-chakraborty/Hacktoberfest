@@ -27,7 +27,7 @@ To Contribute in a proper way so that I can merge the pull request:
     ```
 5. Commit with a message. ( Or write "Wakanda Forever!") `Long live our king Chadwick!`
 6. Make a pull request. [What is that?](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
-7. Done! Welcome to the dark side!
+7. Done! Welcome to the dark side!!!
 
 Due to large volumes of requests, it won't be possible to accept all the pull requests, but you get the idea.
 
