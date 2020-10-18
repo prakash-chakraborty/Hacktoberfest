@@ -23,7 +23,7 @@ To Contribute in a proper way so that I can merge the pull request:
 4. Copy the below code and replace with your github user name. Add after the last one in the file.
 
     ```
-   * [yourusernamehere](https://github.com/yourusernamehere)
+   * [anshroge](https://github.com/anshroge)
     ```
 5. Commit with a message. ( Or write "Wakanda Forever!") `Long live our king Chadwick!`
 6. Make a pull request. [What is that?](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
