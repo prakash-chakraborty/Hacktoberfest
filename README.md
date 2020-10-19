@@ -41,7 +41,7 @@ Checkout my other projects [here](https://github.com/Joonsang1994?tab=repositori
 
 #### Happy Learning & Hacktoberfest :tada: :fireworks:
 
--------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
 ### Contributors:
 
