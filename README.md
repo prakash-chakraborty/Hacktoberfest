@@ -29,7 +29,7 @@ To Contribute in a proper way so that I can merge the pull request:
 6. Make a pull request. [What is that?](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
 7. Done! Welcome to the dark side!
 
-Due to large volumes of requests, it won't be possible to accept all the pull requests, but you get the idea.
+Due to large volumes of requests, it won't be possible to accept all the pull requests, but you get the idea.Good luck!
 
 [Buy me a coffee :smile:](https://www.buymeacoffee.com/prakashc94)
 
