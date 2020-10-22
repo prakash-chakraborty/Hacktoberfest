@@ -45,7 +45,7 @@ Checkout my other projects [here](https://github.com/Joonsang1994?tab=repositori
 
 ### Contributors:
 
-* [Joonsang1994](https://github.com/Joons
-* [abhi9249](https://github.com/abhi9249
+* [Joonsang1994](https://github.com/Joons)
+* [abhi9249](https://github.com/abhi9249)
 
 
