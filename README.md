@@ -24,6 +24,7 @@ To Contribute in a proper way so that I can merge the pull request:
 
     ```
    * [yourusernamehere](https://github.com/yourusernamehere)
+   
     ```
 5. Commit with a message. ( Or write "Wakanda Forever!") `Long live our king Chadwick!`
 6. Make a pull request. [What is that?](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
@@ -47,4 +48,4 @@ Checkout my other projects [here](https://github.com/Joonsang1994?tab=repositori
 
 * [Joonsang1994](https://github.com/Joonsang1994)
 * [yourusernamehere](https://github.com/yourusernamehere)
-
+* [LucasRF01](https://github.com/LucasRF01)
