@@ -1,7 +1,9 @@
 ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)  ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg?style=popout-square) [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-## Your First Pull Request - Hacktoberfest 2018
+## Your First Pull Request - Hacktoberfest
 I created this project in the spirit of hacktoberfest so that you can do a very simple pull request and in the process you learn how to contribute to a project :smiley:
+
+Note that this repository exists as a learning tool for new contributors to open-source, and pull requests to this won’t count toward Hacktoberfest! PR requests won't be accepted/merged.
 
 ### What is Hacktoberfest?
 
@@ -23,17 +25,21 @@ To Contribute in a proper way so that I can merge the pull request:
     ```
    * [yourusernamehere](https://github.com/yourusernamehere)
     ```
-5. Commit with a message. ( Or write "Wakanda Forever!")
+5. Commit with a message. ( Or write "Wakanda Forever!") `Long live our king Chadwick!`
 6. Make a pull request. [What is that?](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
-7. Done!
+7. Done! Welcome to the dark side!
 
-[Want more free t-shirts like this one? Check this out!](https://github.com/Joonsang1994/free-tshirts-stickers-and-swag-for-developers)
+Due to large volumes of requests, it won't be possible to accept all the pull requests, but you get the idea.
 
-If you like my work, [please be my patreon](https://www.patreon.com/join/prakashchakraborty?) . It helps me cover costs :smiley:
+[Buy me a coffee :smile:](https://www.buymeacoffee.com/prakashc94)
+
+[Want free dev t-shirts and swags?](https://github.com/Joonsang1994/free-tshirts-stickers-and-swag-for-developers)
+
+**:envelope: To receive updates in email, [subscribe!](https://mailchi.mp/9dafbae00206/prakash) :envelope:**
 
 Checkout my other projects [here](https://github.com/Joonsang1994?tab=repositories)
 
-#### Happy Hacktoberfest :tada: :fireworks:
+#### Happy Learning & Hacktoberfest :tada: :fireworks:
 
 -------------------------------------------------------------------------------------------------
 
@@ -185,5 +191,3 @@ Checkout my other projects [here](https://github.com/Joonsang1994?tab=repositori
 * [blackpanther99](https://github.com/blackpanther99)
 * [nrsalmon](https://github.com/nrsalmon)
 * [praveen070290](https://github.com/praveen070290)
-
-
