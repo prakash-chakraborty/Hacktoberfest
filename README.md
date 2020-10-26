@@ -46,4 +46,4 @@ Checkout my other projects [here](https://github.com/Joonsang1994?tab=repositori
 ### Contributors:
 
 * [Joonsang1994](https://github.com/Joonsang1994)
-* [wi6n3l](https://github.com/wi6n3l)
+* [dec0](https://github.com/wi6n3l)
