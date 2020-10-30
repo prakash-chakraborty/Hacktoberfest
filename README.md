@@ -11,6 +11,7 @@ Note that this repository exists as a learning tool for new contributors to open
 
 ### Wait...what is github?
 GitHub, Inc. is an American multinational corporation that provides hosting for software development and version control using Git.
+
 I get it. You are new to this whole thing. But don't worry, here is a great guide to help you understand.
 
 ### Contribution Guide
