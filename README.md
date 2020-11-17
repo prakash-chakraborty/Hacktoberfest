@@ -41,10 +41,11 @@ Checkout my other projects [here](https://github.com/Joonsang1994?tab=repositori
 
 #### Happy Learning & Hacktoberfest :tada: :fireworks:
 
--------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
 ### Contributors:
 
 * [Joonsang1994](https://github.com/Joonsang1994)
+* [VatsalNarwal](https://github.com/VatsalNarwal)
 * [yourusernamehere](https://github.com/yourusernamehere)
 
