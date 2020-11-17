@@ -21,6 +21,7 @@ To Contribute in a proper way so that I can merge the pull request:
 2. Fork it. (Important!) [What is that?](https://help.github.com/articles/fork-a-repo/)
 3. Edit the README.md file.
 4. Copy the below code and replace with your github user name. Add after the last one in the file.
+5. LONG LIVE WAKANDA!
 
     ```
    * [yourusernamehere](https://github.com/yourusernamehere)
@@ -47,4 +48,5 @@ Checkout my other projects [here](https://github.com/Joonsang1994?tab=repositori
 
 * [Joonsang1994](https://github.com/Joonsang1994)
 * [yourusernamehere](https://github.com/yourusernamehere)
+*(https://github.com/Shagun15)
 
