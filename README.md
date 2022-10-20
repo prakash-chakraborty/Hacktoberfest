@@ -45,6 +45,6 @@ Checkout my other projects [here](https://github.com/Joonsang1994?tab=repositori
 
 ### Contributors:
 
-* [Joonsang1994](https://github.com/Joonsang1994)
+* [prashantkalokhe](https://github.com/prashantkalokhe)
 * [yourusernamehere](https://github.com/yourusernamehere)
 
