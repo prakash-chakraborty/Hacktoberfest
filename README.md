@@ -46,5 +46,6 @@ Checkout my other projects [here](https://github.com/Joonsang1994?tab=repositori
 ### Contributors:
 
 * [Joonsang1994](https://github.com/Joonsang1994)
+* [mrtentacless](https://github.com/mrtentacless)
 * [yourusernamehere](https://github.com/yourusernamehere)
 
